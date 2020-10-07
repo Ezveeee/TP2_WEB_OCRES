@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
-    font-style: normal; 
+    font-style: normal;
     font-weight: bold;
 }
 
@@ -28,7 +28,7 @@ body > header {
     box-shadow: 1px 0px 8px rgb(200, 200, 200);
 }
 
-header .logo-search form  {
+header .logo-search  {
     width: 50%;
 }
 
